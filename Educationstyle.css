@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(16, 103, 174);
+    scroll-behavior: smooth;
+}
+#educationHead{
+    border-bottom: 5px solid black;
+    text-align: center;
+}
+img{
+    display: block;
+    height: 250px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description{
+    text-align: center;
+    font-size:large;
+    margin-bottom: 60px;
+}
+.back{
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 50%;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding:3px;
+    width: 35vw;
+    margin: auto;
+}
